@@ -221,7 +221,8 @@ body {
   .email {
     position: absolute; /* Set position to absolute for text positioning relative to the box */
     top: 45%; /* Adjust top position as needed */
-    left: 36%; /* Adjust left position as needed */
+    left: 30%; /* Adjust left position as needed */
+    text-align: left;
     transform: translate(-50%, -50%); /* Center the text within the box */
     font-size: 88%;
     color: rgba(255, 255, 255, 0.781);
@@ -230,9 +231,10 @@ body {
   .wordemail {
     position: absolute; /* Set position to absolute for text positioning relative to the box */
     top: 40%; /* Adjust top position as needed */
-    left: 15%; /* Adjust left position as needed */
+    left: 30%; /* Adjust left position as needed */
     transform: translate(-50%, -50%); /* Center the text within the box */
     font-size: 88%;
+    text-align: left;
     color: rgba(173, 173, 173, 0.781);
     font-family: candara;
   }
