@@ -175,6 +175,16 @@ body {
     position: absolute;
     top: 1000px;
   }
+
+  .time5 {
+    position: absolute; /* Set position to absolute for text positioning relative to the box */
+    top: 83%; /* Adjust top position as needed */
+    left: 19%; /* Adjust left position as needed */
+    transform: translate(-50%, -50%); /* Center the text within the box */
+    font-size: 0px;
+    color: rgba(255, 255, 255, 0.781);
+    font-family: candara;
+  }
   @media screen and (max-width: 600px) {
     /* Adjust styles for smaller screens */
     .box-text2 {
