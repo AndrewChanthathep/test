@@ -231,7 +231,7 @@ body {
   .email {
     position: absolute; /* Set position to absolute for text positioning relative to the box */
     top: 45%; /* Adjust top position as needed */
-    left: 30%; /* Adjust left position as needed */
+    left: 39%; /* Adjust left position as needed */
     text-align: left;
     transform: translate(-50%, -50%); /* Center the text within the box */
     font-size: 88%;
@@ -241,7 +241,7 @@ body {
   .wordemail {
     position: absolute; /* Set position to absolute for text positioning relative to the box */
     top: 40%; /* Adjust top position as needed */
-    left: 16%; /* Adjust left position as needed */
+    left: 12%; /* Adjust left position as needed */
     transform: translate(-50%, -50%); /* Center the text within the box */
     font-size: 88%;
     text-align: left;
@@ -251,7 +251,7 @@ body {
   .location {
     position: absolute; /* Set position to absolute for text positioning relative to the box */
     top: 52%; /* Adjust top position as needed */
-    left: 17%; /* Adjust left position as needed */
+    left: 16%; /* Adjust left position as needed */
     transform: translate(-50%, -50%); /* Center the text within the box */
     font-size: 88%;
     color: rgba(173, 173, 173, 0.781);
@@ -260,7 +260,7 @@ body {
   .sac {
     position: absolute; /* Set position to absolute for text positioning relative to the box */
     top: 57%; /* Adjust top position as needed */
-    left: 20%; /* Adjust left position as needed */
+    left: 21%; /* Adjust left position as needed */
     transform: translate(-50%, -50%); /* Center the text within the box */
     font-size: 88%;
     color: rgba(255, 255, 255, 0.781);
@@ -332,7 +332,7 @@ body {
 .time5 {
   position: absolute; /* Set position to absolute for text positioning relative to the box */
   top: 83%; /* Adjust top position as needed */
-  left: 19%; /* Adjust left position as needed */
+  left: 18%; /* Adjust left position as needed */
   transform: translate(-50%, -50%); /* Center the text within the box */
   font-size: 85%;
   color: rgba(255, 255, 255, 0.781);
