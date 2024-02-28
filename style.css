@@ -181,7 +181,7 @@ body {
     top: 83%; /* Adjust top position as needed */
     left: 19%; /* Adjust left position as needed */
     transform: translate(-50%, -50%); /* Center the text within the box */
-    font-size: 0px;
+    font-size: 0%;
     color: rgba(255, 255, 255, 0.781);
     font-family: candara;
   }
@@ -241,7 +241,7 @@ body {
   .wordemail {
     position: absolute; /* Set position to absolute for text positioning relative to the box */
     top: 40%; /* Adjust top position as needed */
-    left: 30%; /* Adjust left position as needed */
+    left: 16%; /* Adjust left position as needed */
     transform: translate(-50%, -50%); /* Center the text within the box */
     font-size: 88%;
     text-align: left;
@@ -251,7 +251,7 @@ body {
   .location {
     position: absolute; /* Set position to absolute for text positioning relative to the box */
     top: 52%; /* Adjust top position as needed */
-    left: 18%; /* Adjust left position as needed */
+    left: 17%; /* Adjust left position as needed */
     transform: translate(-50%, -50%); /* Center the text within the box */
     font-size: 88%;
     color: rgba(173, 173, 173, 0.781);
@@ -260,7 +260,7 @@ body {
   .sac {
     position: absolute; /* Set position to absolute for text positioning relative to the box */
     top: 57%; /* Adjust top position as needed */
-    left: 22%; /* Adjust left position as needed */
+    left: 20%; /* Adjust left position as needed */
     transform: translate(-50%, -50%); /* Center the text within the box */
     font-size: 88%;
     color: rgba(255, 255, 255, 0.781);
@@ -269,7 +269,7 @@ body {
 .tag {
   position: absolute; /* Set position to absolute for text positioning relative to the box */
   top: 70%; /* Adjust top position as needed */
-  left: 20%; /* Adjust left position as needed */
+  left: 17%; /* Adjust left position as needed */
   transform: translate(-50%, -50%); /* Center the text within the box */
   font-size: 88%;
   color: rgba(255, 255, 255, 0.781);
@@ -278,7 +278,7 @@ body {
 .discord {
   position: absolute; /* Set position to absolute for text positioning relative to the box */
   top: 65%; /* Adjust top position as needed */
-  left: 17%; /* Adjust left position as needed */
+  left: 15%; /* Adjust left position as needed */
   transform: translate(-50%, -50%); /* Center the text within the box */
   font-size: 88%;
   color: rgba(173, 173, 173, 0.781);
